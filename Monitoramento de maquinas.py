@@ -7,7 +7,7 @@ from tkinter import ttk
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from collections import deque
-import winsound  # Biblioteca para adicionar sons
+import winsound  
 
 class SistemaAcompanhamento:
     def __init__(self, root):
