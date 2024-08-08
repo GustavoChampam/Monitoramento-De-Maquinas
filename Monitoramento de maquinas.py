@@ -205,7 +205,7 @@ class SistemaAcompanhamento:
         self.canvas.get_tk_widget().pack(fill=tk.BOTH, expand=True)
 
     def setup_interface(self):
-        self.root.title("Sistema de Acompanhamento de Máquinas ZF")
+        self.root.title("Sistema de Acompanhamento de Máquinas")
 
         # Estilo
         style = ttk.Style()
